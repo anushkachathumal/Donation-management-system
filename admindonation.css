@@ -1,0 +1,35 @@
+h1{
+    margin-top: 60px;
+    text-align: center;
+}
+
+#a1{
+    text-decoration: none;
+    color: skyblue;
+    font-size: 50px;
+}
+
+#a1:hover{
+    font-weight: 200;
+    color: black;
+}
+
+#a2{
+   text-decoration: none;
+    color: skyblue;
+    font-size: 50px;
+}
+
+#a2:hover{
+    font-weight: 200;
+    color: black;
+}
+
+#donation{
+    margin-left: 80px;
+    margin-top: 60px;
+}
+
+#one{
+    background-image: url(img/rt.jpeg);
+}

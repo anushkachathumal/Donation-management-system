@@ -1,0 +1,266 @@
+
+#header1 h1{
+    font-size: 80px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 30px;
+    color: bisque;
+}
+
+#header1{
+    float: left;
+    margin-left: 1px;
+    margin-top: px;
+    width: 100%;
+    height: 150px;
+    margin-bottom: 1px;
+    
+   
+}
+
+#header2{
+    margin-top: 1px;
+    width: 100%;
+    height: 50px;;
+    margin-bottom: 0px;
+    margin-right: 1px;
+    
+    
+}
+
+#a1{
+    color: aliceblue;
+    font-size: 30px;
+    margin-right: 15px;
+    text-decoration: none;
+    float: right;
+    
+}
+
+#a1:hover{
+    color:bisque;
+    font-weight:200;
+}
+
+#a2{
+     color: aliceblue;
+    font-size: 30px;
+    text-decoration: none;
+    float:right;
+    
+}
+
+#a2:hover{
+     color:bisque;
+    font-weight:200;
+}
+
+#a3{
+     color: aliceblue;
+    font-size: 30px;
+    text-decoration: none;
+    float:right;
+}
+
+#a3:hover{
+     color:bisque;
+    font-weight:200;
+}
+
+span{
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #000;
+    
+}
+
+#hm1{
+     float: left;
+    margin-left: 1px;
+    margin-top: 1px;
+    width: 900px;
+    height: 1650px;
+    margin-bottom: 1px;
+    border-bottom-color: black;
+    border-right-style: outset;
+    overflow: hidden;    
+    
+}
+
+#hm2{
+     float: right;
+    margin-left: 1px;
+    margin-top: 1px;
+    width: 600px;
+    height: 1450px;
+    margin-bottom: 1px;
+    
+}
+
+#hm1 h1{
+    margin-left: 100px;
+}
+
+#slider{
+    height: 400px;
+    width:3000px;
+   position: relative;
+    background-color: aqua;
+    animation-name: slideranimation;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+#slider img{
+    float: left;
+}
+
+#ft{
+    background-color: aqua;
+    height: 400px;
+}
+
+@keyframes slideranimation{
+    0%{
+        left: 0px;
+    }
+    20%{
+        left: 0px;
+    }
+    25%{
+        left: -900px;
+    }
+    45%{
+        left: -900px;
+    }
+    50%{
+        left: -1750px;
+    }
+    70%{
+        left: -1750px;
+    }
+    
+}
+
+
+
+#ll2 h1{
+    font-family: sans-serif;
+    margin-left: 150px;
+}
+
+#ll1 h1{
+    margin-left: 150px;
+    font-family: sans-serif;
+}
+
+#ll1 h2{
+    font-family: sans-serif;
+    margin-left: 5px;
+}
+#ll1 p{
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+#ll1 a{
+    font-size: 20px;
+    color: darkorange;
+    margin-left: 20px;
+   
+}
+#ll1{
+    height: 800px;
+    margin-bottom: 20px;
+}
+
+#ll2{
+    margin-top: 20px;
+     border-top-color: black;
+    border-top-width: 4px;
+    border-top-style: double;
+}
+
+#slider1{
+    margin-left: 10px;
+    margin-top: 80px;
+}
+
+#slider1 p{
+    font-size: 20px;
+    margin-left: 8px;
+    line-height: 25px;
+}
+
+#slider1 iframe{
+    margin-left: 10%;
+}
+
+#middle{
+    height: 1800px;
+    border-bottom-color: black;
+    border-bottom-style: outset;
+    border-bottom-width: medium;
+    margin-bottom: 1px;
+}
+
+#footer{
+    background-color: #80C4DE;
+    
+}
+
+#footer h1{
+    margin-left: 100px;
+    font-family: sans-serif;
+    margin-top: 1px;
+    height: 50px;
+}
+
+#footer strong{
+    margin-left: 20px;
+    font-size: 20px;
+    line-height: 60px;
+    font-family: sans-serif;
+}
+
+#more{
+    display: none;
+}
+
+#mybtn{
+    color: darkorange;
+}
+
+#mybtn1{
+    color: darkorange;
+}
+#ta1{
+    background-color: aqua;
+    width: 100%;
+    height:32px;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+#ta2{
+     background-color: aqua;
+    width: 100%;
+    height:32px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+#date{
+    height: 30px;
+    width: 550px;
+    background-color: gray;
+}
+
+#des{
+     height: 140px;
+    width: 550px;
+    background-color: gray;
+}

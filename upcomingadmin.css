@@ -1,0 +1,41 @@
+#header{
+    background-color:#80C4DE;
+    margin-top: 1px;
+}
+
+#header h1{
+    color: ghostwhite;
+    text-align: center;
+    font-size: 60px;
+    font-family: sans-serif;
+}
+
+#lb1{
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-right: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#in1{
+    margin-left: 10px;
+}
+
+#form{
+    border: 1px solid;
+    padding: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    
+}
+
+#form .hrline{
+    height: 2px;
+    background-color: #80C4DE;
+}
+
+#form .form-control btn btn-primary{
+    width: 60px;
+}

@@ -1,0 +1,31 @@
+body{
+       
+        text-align: center;
+        background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(img/help.jpg);
+        background-size: cover;
+        background-position: center;
+        font-family: sans-serif;
+
+}
+
+.helpdesk-title
+{
+    margin-top: 100px;
+    color: #fff;
+    text-transform: uppercase;
+    transition: all 4s ease-in-out;  
+}
+.helpdesk-title h1{
+    font-size: 32px;
+    line-height: 10px;
+}
+.helpdesk-title h2{
+    font-size: 16px;
+}
+
+.nav-item{
+   
+    font-size: 25px;
+}
+
+
